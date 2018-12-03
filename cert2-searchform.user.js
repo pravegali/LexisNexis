@@ -39,6 +39,7 @@
 
         // move the explore content out of header
         $("#g7x_kgk").detach().prependTo("#grid-container");
+        $("#g7x_kgk").css("padding-top", "24px");
 
 
         // change comp practiceareacontainer body color to #eee
